@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayson Venly</h1>
+<h1 align="center">Hi 👋, I'm Jayson Venly New and still learning things</h1>
 <h3 align="center">“Beginner developer from PH, building step by step.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayko227&label=Profile%20views&color=0e75b6&style=flat" alt="jayko227" /> </p>
